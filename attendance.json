@@ -1,0 +1,191 @@
+{
+  "period_start": "2026-10-08",
+  "period_end": "2026-10-14",
+  "students": [
+    {
+      "name": "Aditya",
+      "roll_no": "101",
+      "present_days": 6,
+      "total_days": 7,
+      "attendance_percentage": 85.71,
+      "attendance_records": [
+        {
+          "date": "2026-10-08",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-14",
+          "status": "Present"
+        }
+      ]
+    },
+    {
+      "name": "Sumit",
+      "roll_no": "102",
+      "present_days": 5,
+      "total_days": 7,
+      "attendance_percentage": 71.43,
+      "attendance_records": [
+        {
+          "date": "2026-10-08",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-14",
+          "status": "Present"
+        }
+      ]
+    },
+    {
+      "name": "Lalit",
+      "roll_no": "103",
+      "present_days": 5,
+      "total_days": 7,
+      "attendance_percentage": 71.43,
+      "attendance_records": [
+        {
+          "date": "2026-10-08",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-14",
+          "status": "Present"
+        }
+      ]
+    },
+    {
+      "name": "Anant",
+      "roll_no": "104",
+      "present_days": 5,
+      "total_days": 7,
+      "attendance_percentage": 71.43,
+      "attendance_records": [
+        {
+          "date": "2026-10-08",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-14",
+          "status": "Absent"
+        }
+      ]
+    },
+    {
+      "name": "Krishna",
+      "roll_no": "105",
+      "present_days": 5,
+      "total_days": 7,
+      "attendance_percentage": 71.43,
+      "attendance_records": [
+        {
+          "date": "2026-10-08",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-14",
+          "status": "Present"
+        }
+      ]
+    }
+  ]
+}

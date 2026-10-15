@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+api_key.env
+api_key.env.*
+!api_key.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
